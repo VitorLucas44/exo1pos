@@ -10,3 +10,12 @@ li:nth-child(even){
 
 }
 
+section:nth-child(4)>span{
+    display: block;
+}
+section:nth-child(4)>strong{
+    display: block;
+}
+section:nth-child(4)>u{
+    display: block;
+}
